@@ -1,2 +1,2 @@
-# ProjecteIntegrador
+# Projecte Integrador
 Proyecto
