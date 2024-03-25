@@ -1,3 +1,19 @@
+**Pràctica 3.2. Disseny del CPD i organització de la seu**
+|**SERVIDOR FÍSICO - DELL 1**||||
+| - | :- | :- | :- |
+|S.O|Nuclis|Ram|Discos|
+|Lubuntu 22.04 LTS|6|4 GB|<p>1 disc NVMe de 256 GB</p><p>- / (raíz): 50 GB (montaje: /).</p><p>- /home: 100 GB (montaje: /home).</p><p>- swap: 8 GB (montaje: swap).</p><p>- /mnt/virtualbox (128 Gb restantes)</p><p>3 discos SSD de 128 GB</p><p>- /mnt/virtualbox1</p><p>- /mnt/virtualbox2</p><p>- /mnt/virtualbox3</p>|
+|||||
+|Funcionalitat|**Servidor Empresarial**|**Monitorització**|**Almacenamiento de Datos**|
+|S.O|Windows Server 2022 Standard|Ubuntu Server 22.04 LTS|Truenas 12.0|
+|Nuclis|4|2|2|
+|Ram|6 GB|3 GB|3 GB|
+|Discos|<p>S.O:</p><p>1 Disco Virtual de 60Gb mnt/virtualbox</p>|<p>S.O:</p><p>1 Disco Virtual de 34 Gb</p><p>mnt/virtualbox</p>|<p>S.O:</p><p>1 Disco Virtual de 34Gb mnt/virtualbox</p><p>RAID 5:</p><p>1 Disco Virtual de 128Gb mnt/virtualbox1</p><p>1 Disco Virtual de 128Gb</p><p>mnt/virtualbox2</p><p>1 Disco Virtual de 128Gb mnt/virtualbox3</p>|
+|Targetes de Xarxa|2|1|1|
+|Servidor Físic|DELL 1|DELL 1|DELL 1|
+
+
+
 <table><tr><th colspan="4" valign="top"><b>SERVIDOR FÍSICO - DELL 2</b></th></tr>
 <tr><td colspan="1" valign="top">S.O</td><td colspan="1" valign="top">Nuclis</td><td colspan="1" valign="top">Ram</td><td colspan="1" valign="top">Discos</td></tr>
 <tr><td colspan="1" valign="top">Lubuntu 22.04 LTS</td><td colspan="1" valign="top">6</td><td colspan="1" valign="top">6GB</td><td colspan="1" valign="top"><p>1 disc NVMe de 256 GB</p><p>- / (raíz): 50 GB (montaje: /).</p><p>- /home: 100 GB (montaje: /home).</p><p>- swap: 8 GB (montaje: swap).</p><p>- /mnt2/virtualbox (128 Gb restantes)</p><p>3 discos SSD de 128 GB</p><p>- /mnt2/virtualbox1</p><p>- /mnt2/virtualbox2</p><p>- /mnt2/virtualbox3</p></td></tr>
