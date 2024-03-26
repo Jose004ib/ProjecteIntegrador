@@ -1,19 +1,21 @@
 *Grup Barcelona*
 **Pràctica 3.2. Disseny del CPD i organització de la seu**
- **Diseño del Rack**
+﻿**Diseño del Rack**
 
 Parte superior (Planta 1):
 
 - 1 switch TP-Link 1U configurable, que es el switch troncal de la 1a planta
-- 2 puntos de acceso inalámbrico
+- 1 punto de acceso inalámbrico
+- 1 Patch Panel
 
 Parte central (Planta 0 / CPD):
 
 - 1 Mikrotik que sirve como servidor de comunicaciones con el exterior
 - 1 switch Cisco 1U configurable, que es el switch troncal de la sede
-- 3 switches 1U no configurables
-- Adaptadores USB → RJ-45
-- Cables de red y latiguillos
+- 1 punto de acceso inalámbrico
+- 1 Patch Panel
+- 1 Switch no configurable para DMZ
+- 1 Switch para conectar el servidor de datos
 
 Parte baja:
 
