@@ -1,0 +1,63 @@
+# Bitácora del Grupo Barcelona
+
+- **9/04/2024**
+  - Los compañeros comienzan instalando los clientes.
+  - Colocación del material en su lugar correspondiente.
+  - Debate sobre la infraestructura de red.
+  - Configuración del router Mikrotik principal.
+
+- **12/04/2024**
+  - Montaje de los patch panels.
+  - Instalación de VirtualBox y SSH en los clientes.
+
+- **30/04/2024**
+  - Impacto de cables en los patch panels.
+  - Instalación de máquinas virtuales del servidor empresarial, almacenamiento y monitorización.
+
+- **3/05/2024**
+  - Configuración del servidor de almacenamiento (IP, interfaz web, etc.).
+  - Finalización de la instalación de cables y montaje en el armario Rack.
+  - Conectividad del servidor principal de Windows con sus clientes.
+
+- **6/05/2024**
+  - Crimpado de cables para interconectar los switches, enfrentando algunas complicaciones.
+  - Instalación de roles en el servidor empresarial.
+  - Configuración de TrueNAS 13.
+
+- **7/05/2024**
+  - Interconexión de switches.
+  - Creación del dominio AITEX-BCN.lan.
+  - Añadido del Windows Server Core al dominio como servidor secundario.
+
+- **10/05/2024**
+  - Creación de la página web de la empresa en Debian 12.
+  - Configuración del servidor Zabbix.
+  - Creación de pools en TrueNAS (srv-almacenamiento).
+  - Configuración de las unidades organizativas en el servidor empresarial.
+
+- **13/05/2024**
+  - Unión de clientes en el servidor de monitorización para alertas de fallos.
+  - Instalación del agente Zabbix y configuración de directivas en el servidor empresarial.
+  - Configuración del servidor de aplicaciones.
+
+- **17/05/2024**
+  - Enfoque en tareas que no requieren acceso a internet debido a la falta de red.
+  - Elaboración de un script de PowerShell en el servidor empresarial.
+
+- **20/05/2024**
+  - Reunión de grupo para priorizar tareas en ausencia de internet.
+  - Actualización y organización del tablero de Trello.
+
+- **21/05/2024**
+  - Continuación del trabajo en el script de PowerShell.
+  - Creación de archivos .html para la página de la empresa en Debian 11.
+
+- **24/05/2024**
+  - Finalización de la página web.
+  - Configuración de una máquina en AWS para el despliegue de la página.
+  - Rectificación y finalización del script de PowerShell.
+
+- **27/05/2024**
+  - Creación de usuarios, grupos y GDLs en el servidor empresarial.
+  - Establecimiento de directivas de usuario.
+  - Despliegue de la página web en AWS.
