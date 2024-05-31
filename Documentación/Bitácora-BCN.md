@@ -55,8 +55,14 @@
   - Creación de la página web.
   - Configuración de una máquina en AWS para su despliegue.
   - Rectificación y finalización del script de PowerShell.
-
+    
 - **27/05/2024**
   - Creación de usuarios, grupos y GDLs en el servidor empresarial.
   - Establecimiento de directivas de usuario.
   - Despliegue de la página web en AWS.
+- **28/05/2024**
+  - Rectificación de parametros de usuarios.
+  - Implementamos las directivas correspondientes.
+- **31/05/2024**
+  - Asignación de los gg´s y gdl´s , a sus usuarios.
+  - Acabamos y retificamos lo que falte del SRV-EMPRESARIAL 
