@@ -73,7 +73,7 @@
 - **04/06/2024**
   - Acabamos el servidor de copias de seguridad en AWS, tuvimos un problema con el Almacenamiento del server DELL1.
 
--**07/06/2024**
+- **07/06/2024**
   - Seguimos con problemas con el alamacenamiento del DELL1, intentamos copiar parte del alamacenamiento del DELL1 al DELL3.
 
 
