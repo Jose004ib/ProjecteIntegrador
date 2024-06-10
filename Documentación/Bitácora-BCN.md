@@ -67,14 +67,13 @@
   - Asignación de los gg´s y gdl´s , a sus usuarios.
   - Acabamos y retificamos lo que falte del SRV-EMPRESARIAL
  
-  - **03/06/2024**
+- **03/06/2024**
+  - Realizamos los últimos retoques a los servidores, verificamos que los datos de los usuarios estén bien,.
 
-Realizamos los últimos retoques a los servidores, verificamos que los datos de los usuarios estén bien,.
-
-  - **04/06/2024**
+- **04/06/2024**
   - Acabamos el servidor de copias de seguridad en AWS, tuvimos un problema con el Almacenamiento del server DELL1.
 
-  -**07/06/2024**
+-**07/06/2024**
   - Seguimos con problemas con el alamacenamiento del DELL1, intentamos copiar parte del alamacenamiento del DELL1 al DELL3.
 
 
