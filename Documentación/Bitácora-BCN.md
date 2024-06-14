@@ -1,29 +1,31 @@
 # Bitácora del Grupo Barcelona
 
-- **9/04/2024**
-  - El equipo inicia la instalación de los clientes y la colocación del material en su lugar correspondiente.
-  - Se debate sobre la infraestructura de red.
+# Bitácora del Grupo Barcelona
+
+- **09/04/2024**
+  - Inicio de la instalación de los clientes y la colocación del material en su lugar correspondiente.
+  - Debate sobre la infraestructura de red.
   - Configuración del router Mikrotik principal.
 
 - **12/04/2024**
-  - El equipo comienza el montaje de los patch panels.
+  - Montaje de los patch panels.
   - Instalación de VirtualBox y SSH en los clientes.
 
 - **30/04/2024**
-  - Trabajo en impactar cables en los patch panels.
+  - Conexión de cables en los patch panels.
   - Instalación de las máquinas virtuales del servidor empresarial, almacenamiento y monitorización.
 
-- **3/05/2024**
+- **03/05/2024**
   - Configuración del servidor de almacenamiento (IP, interfaz web, etc.).
   - Finalización de la instalación de cables y montaje en el armario Rack.
   - Conectividad del servidor principal de Windows con sus clientes.
 
-- **6/05/2024**
+- **06/05/2024**
   - Crimpado de cables para interconectar los switches, enfrentando algunas complicaciones.
   - Instalación de roles necesarios en el servidor empresarial.
   - Configuración de TrueNAS 13.
 
-- **7/05/2024**
+- **07/05/2024**
   - Continuación de la interconexión de switches.
   - Creación del dominio AITEX-BCN.lan.
   - Adición del Windows Server Core al dominio como servidor secundario.
@@ -35,12 +37,12 @@
   - Configuración de las unidades organizativas en el servidor empresarial.
 
 - **13/05/2024**
-  - Unión de los clientes en el servidor de monitorización para alertar en caso de fallos.
+  - Unión de los clientes al servidor de monitorización para alertar en caso de fallos.
   - Instalación del agente Zabbix y configuración de directivas en el servidor empresarial.
   - Trabajo en el servidor de aplicaciones.
 
 - **17/05/2024**
-  - Enfoque en tareas que no requieren acceso a internet debido a la falta de red.
+  - Enfoque en tareas que no requieren acceso a Internet debido a la falta de red.
   - Elaboración de un script de PowerShell en el servidor empresarial.
 
 - **20/05/2024**
@@ -60,20 +62,31 @@
   - Creación de usuarios, grupos y GDLs en el servidor empresarial.
   - Establecimiento de directivas de usuario.
   - Despliegue de la página web en AWS.
+
 - **28/05/2024**
-  - Rectificación de parametros de usuarios.
-  - Implementamos las directivas correspondientes.
+  - Rectificación de parámetros de usuarios.
+  - Implementación de las directivas correspondientes.
+
 - **31/05/2024**
-  - Asignación de los gg´s y gdl´s , a sus usuarios.
-  - Acabamos y retificamos lo que falte del SRV-EMPRESARIAL
- 
+  - Asignación de grupos y GDLs a sus usuarios.
+  - Revisión y finalización del servidor empresarial.
+
 - **03/06/2024**
-  - Realizamos los últimos retoques a los servidores, verificamos que los datos de los usuarios estén bien,.
+  - Realización de los últimos retoques a los servidores, verificación de que los datos de los usuarios estén correctos.
 
 - **04/06/2024**
-  - Acabamos el servidor de copias de seguridad en AWS, tuvimos un problema con el Almacenamiento del server DELL1.
+  - Finalización del servidor de copias de seguridad en AWS, enfrentando un problema con el almacenamiento del servidor DELL1.
 
 - **07/06/2024**
-  - Seguimos con problemas con el alamacenamiento del DELL1, intentamos copiar parte del alamacenamiento del DELL1 al DELL3.
+  - Continuación de problemas con el almacenamiento del DELL1, intento de copiar parte del almacenamiento del DELL1 al DELL3. Mientras tanto, se centraron en otras tareas, como la organización del material.
+
+- **10/06/2024**
+  - Solucionado el problema, se procede a comprobar que todo funcione correctamente, que los usuarios puedan acceder al perfil obligatorio, crear sus carpetas personales y verificar el funcionamiento del DC2.
+
+- **11/06/2024**
+  - Experimentación de fallos en la red, lo que llevó a una breve paralización de las labores. Solventado el problema, se probaron las cuotas de disco, verificando mensajes de usuarios que superaron el 95% de su almacenamiento.
+
+- **14/06/2024**
+  - Corrección de toda la parte de ISO y lenguaje de marcas. Revisión del módulo de redes locales. Reunión de grupo para comprobar que toda la documentación es correcta y se ajusta a las necesidades de la actividad.
 
 
