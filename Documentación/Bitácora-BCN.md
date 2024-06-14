@@ -1,6 +1,5 @@
 # Bitácora del Grupo Barcelona
 
-# Bitácora del Grupo Barcelona
 
 - **09/04/2024**
   - Inicio de la instalación de los clientes y la colocación del material en su lugar correspondiente.
